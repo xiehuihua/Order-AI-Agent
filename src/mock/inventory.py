@@ -9,6 +9,10 @@ MOCK_INVENTORY: Dict[int, Dict[str, Any]] = {
     101: {
         "productId": 101,
         "stock": 20
+    },
+    102: {
+        "productId": 102,
+        "stock": 0
     }
 }
 
